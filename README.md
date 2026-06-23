@@ -1,5 +1,3 @@
-# 👨‍🔧 loganmoose
-
 **`Analyst/Engineer/Developer/Creator`**
 
 ![Python](
