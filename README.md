@@ -1,5 +1,3 @@
-**`Analyst/Engineer/Developer/Creator`**
-
 ###
 
 <div data-importer="techs" align="center">
