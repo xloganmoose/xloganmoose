@@ -1,6 +1,8 @@
 # 👨‍🔧 loganmoose
 
-**'(Analyst/Engineer/Developer/Creator)'**
+**`Analyst/Engineer/Developer/Creator`**
+
+![Python](
 <!--
 **xloganmoose/xloganmoose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
